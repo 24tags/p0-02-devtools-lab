@@ -1,0 +1,1 @@
+console.log("P0-03: Node.js и npm работают");
